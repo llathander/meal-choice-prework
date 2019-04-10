@@ -1,7 +1,7 @@
 def meal_choice(x = "meat")
-  return #{x}
+ x
 end
 
-meal_choice(x)
+meal_choice("vegan")
 
 
