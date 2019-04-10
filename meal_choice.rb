@@ -1,5 +1,5 @@
 def meal_choice(x = "meat")
-  return "#{x}"
+  return #{x}
 end
 
 meal_choice(x)
